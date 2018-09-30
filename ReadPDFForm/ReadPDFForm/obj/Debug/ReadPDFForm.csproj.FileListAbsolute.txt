@@ -1,0 +1,14 @@
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\bin\Debug\ReadPDFForm.exe.config
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\bin\Debug\ReadPDFForm.exe
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\bin\Debug\ReadPDFForm.pdb
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\bin\Debug\itextsharp.dll
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\bin\Debug\itextsharp.pdfa.dll
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\bin\Debug\itextsharp.xtra.dll
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\bin\Debug\itextsharp.xml
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\obj\Debug\ReadPDFForm.csprojResolveAssemblyReference.cache
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\obj\Debug\ReadPDFForm.Form1.resources
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\obj\Debug\ReadPDFForm.Properties.Resources.resources
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\obj\Debug\ReadPDFForm.csproj.GenerateResource.Cache
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\obj\Debug\ReadPDFForm.csproj.CoreCompileInputs.cache
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\obj\Debug\ReadPDFForm.exe
+C:\Users\bedir\OneDrive\Documents\C# Projects\ReadPDFForm\ReadPDFForm\obj\Debug\ReadPDFForm.pdb
